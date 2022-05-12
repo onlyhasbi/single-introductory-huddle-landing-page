@@ -151,6 +151,7 @@ body {
   }
 
   .header-image {
+    width: 100%;
     max-width: 66.7rem;
     margin-bottom: 0;
   }
@@ -167,6 +168,7 @@ body {
     letter-spacing: -0.95px;
     line-height: 5.7rem;
     font-weight: 600;
+    margin-top: 4rem;
     margin-bottom: 2rem;
   }
 
